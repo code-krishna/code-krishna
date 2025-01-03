@@ -19,7 +19,7 @@ Bachelor of Technology - Computer Science and Engineering (CGPA: 8.49/10)
 ## 🛠️ **Technical Skills**
 - **Languages**: Python, C++, Java, C  
 - **Expertise**: Discrete Event Simulations, Machine Learning & AI (neural networks, transformers, LLMs, decision trees), Natural Language Processing, Time Series Analysis  
-- **Tools**: Database Management, Object-Oriented Design, Software Development, Networking & Routing, Big Data Handling, LLM Fine-Tuning & Pre-Training, Evaluation Framework Development  
+- **Tools**: Database Management, Object-Oriented Design, Software Development, Networking & Routing, Big Data, LLMs, Evaluation Framework Development  
 
 ---
 
@@ -69,17 +69,12 @@ Bachelor of Technology - Computer Science and Engineering (CGPA: 8.49/10)
 
 ---
 
-<br>
-
-<h3>Statistical Data</h3>
+## **Statistical Data** 
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=code-krishna&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="code-krishna" 
     bg_color=#808080/></p>
 
-<br>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-krishna&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="code-krishna" /></p>
 
-<br>
