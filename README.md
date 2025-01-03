@@ -8,7 +8,7 @@
 
 ## 🏫 **Education**
 - **Arizona State University**  
-  Ph.D. Science - Computer Science (GPA: 3.79/4.00)  
+  Ph.D. Science - Computer Science (GPA: 3.81/4.00)  
   *January 2023 - Present*
 
 - **National Institute of Technology - Agartala**  
