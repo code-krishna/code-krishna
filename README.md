@@ -1,12 +1,18 @@
-# Hi there, I am Vamsi Krishna Pendyala. I am a PhD student at ASU researching on AI/ML to leverage Simulations!!
+# Vamsi Krishna Pendyala
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vamsi-krishna-pendyala-17033a188)  
+[![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github)](https://github.com/code-krishna)   
+
+---
+
 ## 🏫 **Education**
 - **Arizona State University**  
-  Ph.D. Science - Computer Science (GPA: 3.81/4.00)  
-  *January 2023 - Present*
+Ph.D. Science - Computer Science (GPA: 3.81/4.00)  
+*January 2023 - Present*
 
 - **National Institute of Technology - Agartala**  
-  Bachelor of Technology - Computer Science and Engineering (CGPA: 8.49/10)  
-  *June 2015 - May 2019*
+Bachelor of Technology - Computer Science and Engineering (CGPA: 8.49/10)  
+*June 2015 - May 2019*
 
 ---
 
