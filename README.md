@@ -1,9 +1,7 @@
 # Vamsi Krishna Pendyala
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vamsi-krishna-pendyala-17033a188)  
-[![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github)](https://github.com/code-krishna)  
 ---
-
 ## 🏫 **Education**
 - **Arizona State University**  
   Ph.D. Science - Computer Science (GPA: 3.81/4.00)  
