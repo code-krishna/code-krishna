@@ -1,7 +1,4 @@
-# Vamsi Krishna Pendyala
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vamsi-krishna-pendyala-17033a188)  
----
+# Hi there, I am Vamsi Krishna Pendyala. I am a PhD student at ASU researching on AI/ML to leverage Simulations!!
 ## 🏫 **Education**
 - **Arizona State University**  
   Ph.D. Science - Computer Science (GPA: 3.81/4.00)  
