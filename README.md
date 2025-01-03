@@ -2,8 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vamsi-krishna-pendyala-17033a188)  
 [![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github)](https://github.com/code-krishna)  
-📧 **Email**: vpendya2@asu.edu | 📱 **Mobile**: +1-602-625-4580  
-
 ---
 
 ## 🏫 **Education**
