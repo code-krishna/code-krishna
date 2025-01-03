@@ -31,7 +31,6 @@ Bachelor of Technology - Computer Science and Engineering (CGPA: 8.49/10)
 - Modeled **Discrete Event Simulations (DES)** of Intel's MiniFab for semiconductor manufacturing.  
 - Optimized throughput, turnaround, workflow scaling, and buffer utilization.  
 - Developed AI/ML solutions (e.g., transformers, temporal convolutional networks), fine-tuned LLMs, reducing execution time by 95.4%.  
-- Integrated time series analysis, generative AI, and networking.
 
 ### **Software Engineer 1**  
 **Immensitas - Lemnisk**  
